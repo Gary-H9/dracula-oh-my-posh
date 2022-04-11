@@ -1,3 +1,5 @@
+💔 This repository is now archived. Any alterations should be made in [this](https://github.com/dracula/oh-my-posh) repository. 💔 
+
 # Dracula for [Oh My Posh](https://ohmyposh.dev/)
 
 > A dark theme for [Oh My Posh](https://ohmyposh.dev/).
